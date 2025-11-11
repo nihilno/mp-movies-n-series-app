@@ -1,6 +1,5 @@
 # React + Vite
 
 # Entertainment Movie App
-The application allows you to browse a library of movies and TV series. It allows you to search for them by name and add them to your favorites. Movies and TV series are downloaded from the API.
 
-Aplikacja pozwala na przeglądanie biblioteki filmów i seriali. Pozwala na wyszukiwanie ich po nazwie oraz na dodawanie ich do ulubionych. Filmy i seriale pobierane są z API.
+A Single Page Application (SPA) that enables users to explore an extensive library of movies and TV series, fetched dynamically from a remote API. The app supports real-time search by title, seamless browsing, and the ability to add items to a personal favorites list. No UI libraries were used in this project. App features responsive layout.
